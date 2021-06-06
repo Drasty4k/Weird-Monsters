@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weird-monsters/static/css/main.0beba8e4.chunk.css",
+    "main.js": "/weird-monsters/static/js/main.510cea59.chunk.js",
+    "main.js.map": "/weird-monsters/static/js/main.510cea59.chunk.js.map",
+    "runtime-main.js": "/weird-monsters/static/js/runtime-main.15a16a23.js",
+    "runtime-main.js.map": "/weird-monsters/static/js/runtime-main.15a16a23.js.map",
+    "static/js/2.0da9b748.chunk.js": "/weird-monsters/static/js/2.0da9b748.chunk.js",
+    "static/js/2.0da9b748.chunk.js.map": "/weird-monsters/static/js/2.0da9b748.chunk.js.map",
+    "static/js/3.350111a4.chunk.js": "/weird-monsters/static/js/3.350111a4.chunk.js",
+    "static/js/3.350111a4.chunk.js.map": "/weird-monsters/static/js/3.350111a4.chunk.js.map",
+    "index.html": "/weird-monsters/index.html",
+    "static/css/main.0beba8e4.chunk.css.map": "/weird-monsters/static/css/main.0beba8e4.chunk.css.map",
+    "static/js/2.0da9b748.chunk.js.LICENSE.txt": "/weird-monsters/static/js/2.0da9b748.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a16a23.js",
+    "static/js/2.0da9b748.chunk.js",
+    "static/css/main.0beba8e4.chunk.css",
+    "static/js/main.510cea59.chunk.js"
+  ]
+}
